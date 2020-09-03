@@ -246,7 +246,6 @@ except Exception as ex:
 
 print("*****************Bienvenido A SimpleQL*****************")
 inicio()
-
 desarrollo()
 
 #lower minusculas upper mayusculas
