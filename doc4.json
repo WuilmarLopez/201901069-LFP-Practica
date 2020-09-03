@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Wuilmar",
+        "edad": 22,
+        "activo": true,
+        "promedio": 73.85
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 20,
+        "activo": false,
+        "promedio": 72.58
+    },
+    {
+        "nombre": "Alejandro",
+        "edad": 21,
+        "activo": false,
+        "promedio": 35.82
+    }
+
+]
